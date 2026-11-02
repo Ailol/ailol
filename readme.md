@@ -1,7 +1,7 @@
 <div align="center">
 
 <h6>
-<sup>Welcome, equally awkward for me to, wæ. imma cipher, dont kill me. (cypher is gunwield, we just make them)</sup>
+<sup>Welcome, equally awkward for me to, wæ. </sup> imma cipher, dont kill me. (cypher is gunwield, we just make them)
 </h6>
 </div>
 <div align="center">

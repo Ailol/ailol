@@ -1,6 +1,5 @@
 #### Hello. i am Ailo.
 
-<img width="5132" height="2744" src="https://github.com/user-attachments/assets/b8889bfd-8995-4463-8b7f-8a50d117b9e7" />
 
 <p align="center">
   <img

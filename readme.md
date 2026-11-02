@@ -4,8 +4,7 @@
 
 <p align="center">
   <img
-    width="100%"
-    alt="Cipherz learn’ — Biochain"
+    width="100%",
     src="https://github.com/user-attachments/assets/e1e823d5-9002-4b08-b2fe-f2ad834bfaeb"
     />
 </p>

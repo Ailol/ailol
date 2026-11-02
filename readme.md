@@ -10,4 +10,6 @@
 
 <div align="right">
   <sub> <sup>hello</sup>welcome to my private page. </sub>
+  <sup>sometimes awkward is to indikate that i am not hostile, and it soothes the interactinoal space :) </sup>
+  thats why nerds are awkard, they adept' to keep themselves safe :)  its a skill. 
 </div>

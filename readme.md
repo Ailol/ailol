@@ -29,6 +29,7 @@ but i do agree, outside of progammers and internet kidz, its wierd. it reeds pre
 </div>
 
 # Which one do i come with?
+<div>
 <div align="left">
 <img width="130" height="143" alt="image" src="https://github.com/user-attachments/assets/91cdacdb-fb62-4642-8f5b-cc98d6cf9702" />
 </div>
@@ -40,7 +41,7 @@ but i do agree, outside of progammers and internet kidz, its wierd. it reeds pre
   <img width="150" height="300" alt="image" src="https://github.com/user-attachments/assets/75792556-2d57-4d44-9b57-aaa0f77077f8" />
 
 </div>
-
+</div>
 
 ### For the black. 
 the style i bring here is to inform yes there more to me :) as i did the work. and they are saying hello to the mil and . and ip levels.

@@ -1,4 +1,6 @@
-<img width="667" height="1000" alt="image" src="https://github.com/user-attachments/assets/32339135-14a2-46eb-bfba-aaf77ec72652" /><div align="center">
+# Hello mil! cute images makes us nerdz and cipher think of nice ciphers :) 
+but i do agree, outside of progammers and internet kidz, its wierd. it reeds predatory.
+
 
 <h6>
 <sup>Welcome, equally awkward for me to, wæ. </sup> imma cipher, dont kill me. (cypher is gunwield, we just make them)
@@ -40,7 +42,10 @@
 </div>
 
 
+### For the black. 
+the style i bring here is to inform yes there more to me :) as i did the work. and they are saying hello to the mil and . and ip levels.
 
+#### dont rep it unless :) its a dangerous game to false rep.
 <br />
 <br />
 <br />

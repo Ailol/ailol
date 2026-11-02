@@ -1,9 +1,9 @@
 
 <div align="center">
-<img width="271" height="269" alt="639 0 0 0 drawio" src="https://github.com/user-attachments/assets/e2b0fd61-e99e-4c52-8d25-e0ccd229a88f" />
+<img width="230" height="271" alt="cipher drawio" src="https://github.com/user-attachments/assets/046ff69c-b2be-481f-adf2-6c5491c2688c" />
 
 </div>
 
 <div align="right">
-  <sub>yep. friendly neighbourhood indeed. <sup>so this is me </sup> trying to clean it up.</sub>
+  <sub>y <sup>hello</sup></sub>
 </div>

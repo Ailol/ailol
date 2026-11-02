@@ -8,8 +8,7 @@
 <div align="center">
 
  <sub><sub><h6>g'hub '  bestest reporting tool </h6></sub></sub>
- <sub><h6>designed for honesty & safety </h6></sub>
+ <sub><h6> honesty->< designed ><-safety </h6></sub>
 
-  <sub><sub><h6>where you are</h6></sub></sub>
 
 </div>

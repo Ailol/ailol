@@ -1,9 +1,24 @@
 
 # Hello mil!
+A great way to understand the missing part in mil, and why this has happened is this:
+```
+s'bit{
+  cipher: sets the truth.
+  cypher: abides by the truth
+}.into(ingrainment'matters.);
+```
 
-cute images makes us nerdz and cipher think of nice ciphers :)
+as here this 3 lines will change your forever
 
-but i do agree, outside of programmers and internet kidz, its weird. it reads predatory.
+```
+feno - fibres catch vibes in room
+  ' how you de'cipher the experience is set by understanding whats true and whats "tactic"
+. 
+.
+.
+pheno - the set of worries you display.
+```
+---
 
 <div align="center">
   <h6>

@@ -29,7 +29,7 @@ but i do agree, outside of progammers and internet kidz, its wierd. it reeds pre
 </div>
 
 # Which one do i come with?
-<div>
+<div container>
 <div align="left">
 <img width="130" height="143" alt="image" src="https://github.com/user-attachments/assets/91cdacdb-fb62-4642-8f5b-cc98d6cf9702" />
 </div>

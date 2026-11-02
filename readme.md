@@ -27,21 +27,40 @@ but i do agree, outside of progammers and internet kidz, its wierd. it reeds pre
 
 <h6> krist. all these "gut" feelingz people.  </h6>
 </div>
-
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <h1>Which one do i come with?</h1>
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%; gap: 20px;">
+<table width="100%">
+  <tr>
+    <td align="left" valign="top" width="50%">
+      <img width="130" height="143" alt="image"
+        src="https://github.com/user-attachments/assets/91cdacdb-fb62-4642-8f5b-cc98d6cf9702" />
+    </td>
+    <td align="right" valign="top" width="50%">
+      <h6>TVA' OR TAA, or 3301, or 1033, or toee ;*</h6>
+      <img width="150" height="300" alt="image"
+        src="https://github.com/user-attachments/assets/75792556-2d57-4d44-9b57-aaa0f77077f8" />
+    </td>
+  </tr>
+</table>
 
-  <img width="130" height="143" alt="image"
-    src="https://github.com/user-attachments/assets/91cdacdb-fb62-4642-8f5b-cc98d6cf9702" />
-
-  <div align="right">
-    <h6>TVA' OR TAA, or 3301, or 1033, or toee ;*</h6>
-    <img width="150" height="300" alt="image"
-      src="https://github.com/user-attachments/assets/75792556-2d57-4d44-9b57-aaa0f77077f8" />
-  </div>
-
-</div>
 
 ### For the black. 
 the style i bring here is to inform yes there more to me :) as i did the work. and they are saying hello to the mil and . and ip levels.
@@ -53,4 +72,10 @@ the style i bring here is to inform yes there more to me :) as i did the work. a
 <br />
 <br />
 
-i hope you understand the message :) 
+i hope you understand the message :)
+
+
+
+btw, i ove life and all to linus :) him alone.
+
+thank you for github.<3 it has saved my life.

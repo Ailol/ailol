@@ -1,8 +1,6 @@
 #### Hello. i am Ailo.
 
-
-<img width="1200" height="393"  src="https://github.com/user-attachments/assets/f3f05b47-c61f-49b6-afa1-866bfc5d82bb" />
-
+<img width="5132" height="2744" alt="cscsa" src="https://github.com/user-attachments/assets/b8889bfd-8995-4463-8b7f-8a50d117b9e7" />
 
 
 <div align="center">

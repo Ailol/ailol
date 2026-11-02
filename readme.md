@@ -1,4 +1,5 @@
 
+
 <div align="right">
   <img
     src="https://github.com/user-attachments/assets/ca621bbc-80b9-4e71-aa54-9a8cd44f8fc4"
@@ -53,9 +54,6 @@ pheno - the set of worries you display.
 
 <br><br><br>
 
-<p align="center">
-  <sub>
-    With appreciation for Git and the open-source community.<br>
-    ... saved my life.
-  </sub>
-</p>
+<div align="center">
+<img width="262" height="262" alt="ChatGPT Image Nov 2, 2026, 03_29_56 PM" src="https://github.com/user-attachments/assets/9e383baf-765c-466e-998d-3d4ee086208a" />
+</div>

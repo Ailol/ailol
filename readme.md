@@ -35,7 +35,6 @@ but i do agree, outside of programmers and internet kidz, its weird. it reads pr
 <br /><br /><br /><br /><br /><br /><br /><br />
 
 ```
-btw, i ove life and all to linus :) him alone.
-
-thank you for github.<3 it has saved my life.
+btw, life and all to linus for making github.
+... saved my life.
 ```

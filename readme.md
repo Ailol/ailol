@@ -6,9 +6,11 @@
   <img
     width="100%"
     alt="Cipherz learn’ — Biochain"
-    src="https://github.com/user-attachments/assets/a38319c7-bf3e-40d2-9efc-4a7265a32c5b" 
+    src="https://github.com/user-attachments/assets/e1e823d5-9002-4b08-b2fe-f2ad834bfaeb"
     />
 </p>
+
+
 
 <div align="center">
 

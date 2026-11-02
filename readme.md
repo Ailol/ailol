@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="260" height="390" alt="639 drawio1" src="https://github.com/user-attachments/assets/ca621bbc-80b9-4e71-aa54-9a8cd44f8fc4" />
+  <img width="260" height="390" src="https://github.com/user-attachments/assets/ca621bbc-80b9-4e71-aa54-9a8cd44f8fc4" />
 
 </div>
 

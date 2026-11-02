@@ -8,28 +8,28 @@
   />
 </div>
 
-<h1>Hello mil!</h1>
+<h2>Hello mil!</h2>
 
 <p>A great way to understand the missing part in mil, and why this has happened:</p>
 
-<pre>
+<sub>
 s'bit{
   cipher: sets the truth.
   cypher: abides by the truth
 }.into(ingrainment'matters.);
-</pre>
+</sub>
 
-<p>Three lines that change how the following is understood:</p>
 
-<pre>
-feno - fibres catch vibes in room
+<sub>
+feno - fibres is vibes in room
   ' how you de'cipher the experience is set
     by understanding whats true and whats "tactic"
 .
 .
 .
+</sub>
+
 pheno - the set of worries you display.
-</pre>
 
 <sub>Welcome, equally awkward for me too, wæ.</sub>
 

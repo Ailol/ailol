@@ -2,7 +2,8 @@
 
 ### i am t'Ailo.
 
-<img width="325" height="272" alt="proCtorionz&#39;set Keta" src="https://github.com/user-attachments/assets/6949f5fe-570d-4bc1-9fa1-76071f0490bc" />
+
+<img width="1300" height="1088" alt="krit" src="https://github.com/user-attachments/assets/72555ef3-c5fc-4200-bf14-b3360fa1f4bb" />
 
 
 

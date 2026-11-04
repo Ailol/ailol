@@ -1,13 +1,8 @@
+# Hello. 
 
-#### Hello. i am Ailo.
+### i am t'Ailo.
 
-
-<p align="center">
-  <img
-    width="100%",
-    src="https://github.com/user-attachments/assets/e1e823d5-9002-4b08-b2fe-f2ad834bfaeb"
-    />
-</p>
+<img width="325" height="272" alt="proCtorionz&#39;set Keta" src="https://github.com/user-attachments/assets/6949f5fe-570d-4bc1-9fa1-76071f0490bc" />
 
 
 

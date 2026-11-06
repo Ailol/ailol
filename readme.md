@@ -1,12 +1,7 @@
 # Hello. 
 
 ### yep, A'j, the white jordan. .
-
-ma basket <img width="15" height="21" alt="image" src="https://github.com/user-attachments/assets/5ea23422-f8e7-4e8b-89a3-3af1e8fcb353" />
-
-<img width="1300" height="1088" alt="krit" src="https://github.com/user-attachments/assets/72555ef3-c5fc-4200-bf14-b3360fa1f4bb" />
-
-
+<img width="1322" height="1190" alt="Platinum athlete emblem on black luxury art (1)" src="https://github.com/user-attachments/assets/6f6c8899-ef84-4e07-87aa-f870be96453a" />
 
 <div align="center">
 

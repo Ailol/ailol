@@ -1,6 +1,6 @@
 # Hello. 
 
-### i am t'Ailo.
+### yep, A'j, the white jordan. .
 
 ma basket <img width="15" height="21" alt="image" src="https://github.com/user-attachments/assets/5ea23422-f8e7-4e8b-89a3-3af1e8fcb353" />
 

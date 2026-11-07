@@ -6,6 +6,11 @@
 
 then .wit is alwqys valuable in those areas
 
+
+### in our time; these are the guides from g'cartell:
+a god "sets" things before it is in motion; when you need guidance; books of old.already know and are personal to read into(us chickz ♥︎
+
+
 Quorán ' quran. "the individuals effekt" id a good way to see quran 😌
 Christian the gay son of dad in lae ℹ️ antiefa.(he has downs... we dont judge ); the honesty is best srrved for you. 
 

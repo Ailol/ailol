@@ -6,6 +6,7 @@
 
 then .wit is alwqys valuable in those areas
 
+# next is the overview of what i see in relgion online(bookz hopefully later)
 
 ### in our time; these are the guides from g'cartell:
 a god "sets" things before it is in motion; when you need guidance; books of old.already know and are personal to read into(us chickz ♥︎

@@ -1,5 +1,15 @@
 # Hello. 
 
+# next is the áshláp krew, religion & mil goed hand in hand as
+
+.mil / .wil(hehehe) 
+
+then .wit is alwqys valuable in those areas
+
+Quorán ' quran. "the individuals effekt" id a good way to see quran 😌
+Christian the gay son of dad in lae ℹ️ antiefa.(he has downs... we dont judge ); the honesty is best srrved for you. 
+
+
 ### yep, A'j, the white jordan. .
 the killah of dreams and single te'or'
 

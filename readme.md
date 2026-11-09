@@ -1,1 +1,6 @@
-<img width="2482" height="1981" alt="the widow" src="https://github.com/user-attachments/assets/870f9a39-35d7-4d99-a8f3-889472e5d0ee" />
+<div align="center">
+
+<img width="1122" height="1957" alt="ailo_3 (1)" src="https://github.com/user-attachments/assets/51952220-dec3-46f5-8402-44d13feed312" />
+
+
+</div>
